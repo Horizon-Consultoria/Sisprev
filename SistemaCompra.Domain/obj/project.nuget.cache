@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "iBPAFwmxAat51jsV4PurLiuuAr+DicelE13Lr22ow2ilpZBu912sYRBJZS2e2TqfnYZUnaNATixWlnjzJzHzrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\Downloads\\SistemaCompras-v3\\SistemaCompra.Domain\\SistemaCompra.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodrigo.gustavo.RADIXENGRJ.000\\.nuget\\packages\\mediatr\\8.0.0\\mediatr.8.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
